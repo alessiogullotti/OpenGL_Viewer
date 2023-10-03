@@ -14,15 +14,16 @@ Customization can be done in the Main.cpp file including:
 Video Example: https://youtu.be/yuVrAzU-nGY
 
 
+#Notes
 Include:
-GLFW
-stb_image.h
-Assimp
-glm
-glad
+*GLFW
+*stb_image.h
+*Assimp
+*glm
+*glad
 
 Lib:
-glfw3.lib
-assimp-vc143-mtd.lib
+*glfw3.lib
+*assimp-vc143-mtd.lib
 
 
