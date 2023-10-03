@@ -15,15 +15,7 @@ Video Example: https://youtu.be/yuVrAzU-nGY
 
 
 #Notes
-Include:
-*GLFW
-*stb_image.h
-*Assimp
-*glm
-*glad
-
-Lib:
-*glfw3.lib
-*assimp-vc143-mtd.lib
+Add to additional includes the Libraries/include folder and to additional libraries the Libraries/lib
+Add also to the linker opengl32.lib
 
 
