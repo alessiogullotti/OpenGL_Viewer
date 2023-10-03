@@ -14,8 +14,8 @@ Customization can be done in the Main.cpp file including:
 Video Example: https://youtu.be/yuVrAzU-nGY
 
 
-#Notes
-Add to additional includes the Libraries/include folder and to additional libraries the Libraries/lib
+# Notes
+Add to additional includes the Libraries/include folder and to additional libraries the Libraries/lib.
 Add also to the linker opengl32.lib
 
 
